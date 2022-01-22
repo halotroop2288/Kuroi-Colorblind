@@ -1,5 +1,6 @@
 # Kuroi Colorblind
 Kuroi is a dark themed QT stylesheet for RPCS3 and Dolphin.
+
 This fork removes the color-based checkbox styling, so checkboxes can be easily read.
 
 ## RPCS3 Preview
